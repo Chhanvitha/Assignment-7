@@ -27,7 +27,7 @@ project/
 ├── main.py
 ├── README.md
 
----
+
 
 ## How to Run
 ## 1. Install Required Libraries
