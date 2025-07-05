@@ -27,13 +27,15 @@ project/
 ├── main.py
 ├── README.md
 
-How to Run
-1. Install Required Libraries
+---
+
+## How to Run
+## 1. Install Required Libraries
 
 pip install pandas sqlalchemy psycopg2-binary
 You can replace psycopg2-binary with a different SQL driver if needed.
 
-2. Configure main.py
+## 2. Configure main.py
 Set your local folder path:
 
 data_folder = "./data"
@@ -50,7 +52,7 @@ master_child
 
 H_ECOM_Orders
 
-3.  Run the Script
+## 3.  Run the Script
 
 python main.py
 
