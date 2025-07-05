@@ -1,0 +1,4 @@
+MasterID,ChildID,RelationType
+1,1,Primary
+1,2,Secondary
+2,3,Primary
